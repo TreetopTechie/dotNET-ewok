@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/mattbrown/Desktop/Demo Progams/dotNET-ewok/dotNETGoofV2.Website/dotNETGoofV2.Website.csproj": {}
+    "/Users/mattbrown/Desktop/Demo Progams/V1 Demo Programs/dotNET-ewok/dotNETGoofV2.Website/dotNETGoofV2.Website.csproj": {}
   },
   "projects": {
-    "/Users/mattbrown/Desktop/Demo Progams/dotNET-ewok/dotNETGoofV2.Website/dotNETGoofV2.Website.csproj": {
+    "/Users/mattbrown/Desktop/Demo Progams/V1 Demo Programs/dotNET-ewok/dotNETGoofV2.Website/dotNETGoofV2.Website.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mattbrown/Desktop/Demo Progams/dotNET-ewok/dotNETGoofV2.Website/dotNETGoofV2.Website.csproj",
+        "projectUniqueName": "/Users/mattbrown/Desktop/Demo Progams/V1 Demo Programs/dotNET-ewok/dotNETGoofV2.Website/dotNETGoofV2.Website.csproj",
         "projectName": "dotNETGoofV2.Website",
-        "projectPath": "/Users/mattbrown/Desktop/Demo Progams/dotNET-ewok/dotNETGoofV2.Website/dotNETGoofV2.Website.csproj",
+        "projectPath": "/Users/mattbrown/Desktop/Demo Progams/V1 Demo Programs/dotNET-ewok/dotNETGoofV2.Website/dotNETGoofV2.Website.csproj",
         "packagesPath": "/Users/mattbrown/.nuget/packages/",
-        "outputPath": "/Users/mattbrown/Desktop/Demo Progams/dotNET-ewok/dotNETGoofV2.Website/obj/",
+        "outputPath": "/Users/mattbrown/Desktop/Demo Progams/V1 Demo Programs/dotNET-ewok/dotNETGoofV2.Website/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/mattbrown/.nuget/NuGet/NuGet.Config"
@@ -64,6 +64,10 @@
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[5.0.2, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.69, )"
             },
             "ServiceStack": {
               "target": "Package",
