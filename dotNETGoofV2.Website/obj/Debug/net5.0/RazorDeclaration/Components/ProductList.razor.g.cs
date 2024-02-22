@@ -7,27 +7,27 @@
 namespace dotNETGoofV2.Website.Components
 {
     #line hidden
-    using System;
-    using System.Collections.Generic;
-    using System.Linq;
-    using System.Threading.Tasks;
-    using Microsoft.AspNetCore.Components;
+    using global::System;
+    using global::System.Collections.Generic;
+    using global::System.Linq;
+    using global::System.Threading.Tasks;
+    using global::Microsoft.AspNetCore.Components;
 #nullable restore
-#line 1 "/Users/mattbrown/Desktop/Demo Progams/V1 Demo Programs/dotNET-ewok/dotNETGoofV2.Website/Components/ProductList.razor"
+#line 1 "/Users/mattbrown/Desktop/Projects/dotNET-ewok/dotNETGoofV2.Website/Components/ProductList.razor"
 using Microsoft.AspNetCore.Components.Web;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 2 "/Users/mattbrown/Desktop/Demo Progams/V1 Demo Programs/dotNET-ewok/dotNETGoofV2.Website/Components/ProductList.razor"
+#line 2 "/Users/mattbrown/Desktop/Projects/dotNET-ewok/dotNETGoofV2.Website/Components/ProductList.razor"
 using dotNETGoofV2.Website.Services;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 3 "/Users/mattbrown/Desktop/Demo Progams/V1 Demo Programs/dotNET-ewok/dotNETGoofV2.Website/Components/ProductList.razor"
+#line 3 "/Users/mattbrown/Desktop/Projects/dotNET-ewok/dotNETGoofV2.Website/Components/ProductList.razor"
 using dotNetGoofV2.Website.Models;
 
 #line default
@@ -41,7 +41,7 @@ using dotNetGoofV2.Website.Models;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 81 "/Users/mattbrown/Desktop/Demo Progams/V1 Demo Programs/dotNET-ewok/dotNETGoofV2.Website/Components/ProductList.razor"
+#line 81 "/Users/mattbrown/Desktop/Projects/dotNET-ewok/dotNETGoofV2.Website/Components/ProductList.razor"
        
     Product selectedProduct;
     string selectedProductId;

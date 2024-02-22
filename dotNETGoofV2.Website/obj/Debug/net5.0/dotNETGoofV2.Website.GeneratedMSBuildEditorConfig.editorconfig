@@ -8,4 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = dotNETGoofV2.Website
-build_property.ProjectDir = /Users/mattbrown/Desktop/Demo Progams/V1 Demo Programs/dotNET-ewok/dotNETGoofV2.Website/
+build_property.ProjectDir = /Users/mattbrown/Desktop/Projects/dotNET-ewok/dotNETGoofV2.Website/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
