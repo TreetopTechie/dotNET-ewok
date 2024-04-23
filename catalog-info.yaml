@@ -6,7 +6,8 @@ metadata:
   labels:
     example.com/custom: custom_label_value
   annotations:
-    endor.ai/project-id: 65f959bf58ad331f0419bb4d
+    endorlabs.com/namespace: david-learn
+    endorlabs.com/project-uuid: 65f959bf58ad331f0419bb4d
     github.com/project-slug: TreetopTechie/dotNET-ewok
   tags:
     - dotnet
